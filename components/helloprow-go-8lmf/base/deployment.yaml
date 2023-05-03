@@ -24,7 +24,7 @@ spec:
         app.kubernetes.io/instance: helloprow-go-8lmf
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/user-workload@sha256:f9a62642da55cb7d23687404464e727e49a5d6168eddff6b8acd02265a6b539c
+      - image: quay.io/redhat-appstudio/user-workload@sha256:997a151a683e56b6af70c9344e2b5d310b63bcefa296e5581ecc768e30b7f031
         imagePullPolicy: Always
         name: container-image
         ports:
