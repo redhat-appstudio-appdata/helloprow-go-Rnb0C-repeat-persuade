@@ -9,7 +9,6 @@ metadata:
     app.kubernetes.io/name: helloprow-go-8lmf
     app.kubernetes.io/part-of: helloprow-go
   name: helloprow-go-8lmf
-  namespace: red-hat-acm-tenant
 spec:
   port:
     targetPort: 8080
