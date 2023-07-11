@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: helloprow-go-8lmf
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
